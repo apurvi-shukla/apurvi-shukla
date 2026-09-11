@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Apurvi Shukla 
-B2B Data Analyst | Upcoming AI/ML Engineer
+B2B Data Analyst | Aspiring AI/ML Engineer
 
 - 🔭 I'm currently working on data analytics projects, building toward a full Data Analyst role
 - 🌱 I'm currently leveling up in Matplotlib, Seaborn, and Power BI to round out my visualization skillset
