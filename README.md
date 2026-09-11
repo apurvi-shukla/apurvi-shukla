@@ -9,4 +9,19 @@ I'm **Apurvi Shukla** — making data speak, one query at a time 📊
 - 💬 Ask me about SQL, Pandas, NumPy, or Advanced Excel
 - 📫 How to reach me: apurvishukla5@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I trust a clean dataset more than I trust most people
+- ⚡ Fun fact: VLOOKUP has caused me more emotional damage than any relationship
+
+### 💻 Tech Stack:
+
+**Strong:**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Currently Learning:**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
