@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm **Apurvi Shukla** — making data speak, one query at a time 📊
+## Hi there 👋, I'm Apurvi Shukla
+B2B - Data Analyst | Upcoming AI/ML Engineer
 
 - 🔭 I'm currently working on data analytics projects, building toward a full Data Analyst role
 - 🌱 I'm currently leveling up in Matplotlib, Seaborn, and Power BI to round out my visualization skillset
@@ -19,12 +20,14 @@ I'm **Apurvi Shukla** — making data speak, one query at a time 📊
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics_(Descriptive)-4B0082?style=for-the-badge)
 
 **Currently Learning:**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Statistics](https://img.shields.io/badge/Statistics_(Inferential)-808080?style=for-the-badge)
 
 ### 🌐 Socials:
 
