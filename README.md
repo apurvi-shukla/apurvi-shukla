@@ -8,7 +8,7 @@ B2B Data Analyst | Aspiring AI/ML Engineer
 - 💬 Ask me about SQL, Pandas, NumPy, or Advanced Excel
 - 📫 How to reach me: apurvishukla5@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: VLOOKUP has caused me more emotional damage than any relationship
+- ⚡ Fun fact: I trust a clean dataset more than I trust most people
 
 ### 💻 Tech Stack:
 
