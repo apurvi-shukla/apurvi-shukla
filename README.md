@@ -25,6 +25,7 @@ B2B Data Analyst | Aspiring AI/ML Engineer
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Descriptive Statistics](https://img.shields.io/badge/Statistics_(Descriptive)-4B0082?style=for-the-badge)
 ![Inferential Statistics](https://img.shields.io/badge/Statistics_(Inferential)-6A0DAD?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **Currently Learning:**
 
@@ -36,7 +37,7 @@ B2B Data Analyst | Aspiring AI/ML Engineer
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 ### 🌐 Socials:
 
 <p>
