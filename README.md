@@ -20,19 +20,19 @@ B2B Data Analyst | Aspiring AI/ML Engineer
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Descriptive Statistics](https://img.shields.io/badge/Statistics_(Descriptive)-4B0082?style=for-the-badge)
 ![Inferential Statistics](https://img.shields.io/badge/Statistics_(Inferential)-6A0DAD?style=for-the-badge)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-**Currently Learning:**
-
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2E8B57?style=for-the-badge)
+
+**Currently Learning:**
+
 ![RAG](https://img.shields.io/badge/RAG-C2185B?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
