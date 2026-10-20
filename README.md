@@ -26,7 +26,6 @@ B2B Data Analyst | Aspiring AI/ML Engineer
 ![Inferential Statistics](https://img.shields.io/badge/Statistics_(Inferential)-6A0DAD?style=for-the-badge)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2E8B57?style=for-the-badge)
