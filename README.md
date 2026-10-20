@@ -1,14 +1,14 @@
 ## Hi there 👋, I'm Apurvi Shukla 
 B2B Data Analyst | Aspiring AI/ML Engineer
 
-- 🔭 I'm currently working on data analytics projects, building toward a full Data Analyst role
-- 🌱 I'm currently leveling up in Matplotlib, Seaborn, and Power BI to round out my visualization skillset
-- 👯 I'm looking to collaborate on data analysis / dashboarding projects
-- 🤔 I'm looking for help with advanced SQL (window functions) and real-world DA project ideas
-- 💬 Ask me about SQL, Pandas, NumPy, or Advanced Excel
+- 🔭 I'm currently working on Machine Learning projects, building toward a Applied ML Engineer role
+- 🌱 I'm currently leveling up in RAG, LangChain and LangGraph to round out my AI skillset
+- 👯 I'm looking to collaborate on AI and ML based projects
+- 🤔 I'm looking for help with advanced NLP and real-world AI project ideas
+- 💬 Ask me about MySQL, Machine Learning, Deep Learning and NLP 
 - 📫 How to reach me: apurvishukla5@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I trust a clean dataset more than I trust most people
+- ⚡ Fun fact: I teach machines to learn while I'm still learning how machines work.
 
 ### 💻 Tech Stack:
 
