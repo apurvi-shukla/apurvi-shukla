@@ -30,10 +30,10 @@ B2B Data Analyst | Aspiring AI/ML Engineer
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2E8B57?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-C2185B?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082?style=for-the-badge)
 
 **Currently Learning:**
 
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
